@@ -4,6 +4,6 @@ Creating a webpage that displays images from a static json file, with the abilit
 
 ## Implementation 
 
-1. In the directory 'UI-Challenge-main' the terminal, run 'npm install'
+1. cd to the directory 'UI-Challenge-main' in the terminal & run 'npm install'
 2. Run 'node index.js' 
 3. Open up 'http://localhost:9876/' 
